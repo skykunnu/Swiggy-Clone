@@ -3,3 +3,5 @@
 Link-https://skykunnu.github.io/Swiggy-Clone/
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ![Swiggy](https://github.com/skykunnu/Swiggy-Clone/assets/73191595/a1504108-2cec-4426-afa2-bbe037da8836)
+
+![Image](https://github.com/skykunnu/Swiggy-Clone/assets/73191595/1a633df2-8f62-41df-a2a0-3c65ae590eab)
